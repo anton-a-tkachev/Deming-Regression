@@ -1,5 +1,6 @@
 function [r, a, c, s] = polyreg(x,y,p)
 %POLYREG Polynomial regression
+% Copyright Anton Tkachev 2015
 %   Inputs
 %   x, y - dataset vectors
 %   p - polynomial order
