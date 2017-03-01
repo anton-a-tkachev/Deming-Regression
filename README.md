@@ -1,6 +1,4 @@
-# Matlab-Toolkit
-Contains some useful user-defined Matlab functions
+# Deming Regression for Matlab
+Implements Deming regression
 
-
-1. polyreg.m - returns polynomial regression of a specified order for the input dataset
-2. deming.m - returns Deming regression of input X,Y dataset
+deming.m - returns Deming regression for input dataset [X,Y]
