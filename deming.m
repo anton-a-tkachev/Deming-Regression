@@ -1,6 +1,5 @@
 function [Xr,Yr,B,COR,STD] = deming(X,Y,delta)
-%DEMING Returns Deming regression
-% Copyright Anton Tkachev 2015
+%%DEMING Returns Deming regression
 %   X, Y - input data vectors
 %   delta - X and Y variances ratio (if unknown assume delta = 1)
 %   Xr, Yr - regression line data points
